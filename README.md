@@ -12,7 +12,7 @@ Sugiero que de inicio utilicen el siguiente botón que está configurado especí
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/talleres/algebra_lineal_1_binder?urlpath=lab/tree/talleres/)
 
 
-La instalación de un software a veces es sencilla y otras es difícil, depende mucho de su sistema operativo y de su experiencia instalando software. Si deciden instalar Python3 y R en sus máquinas, dediquen un tiempo a su instalación. Mi recomendación es que instalen [Anaconda](https://www.anaconda.com/products/individual) en donde pueden usar [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) e instalar diferentes [kernels](https://jupyter.readthedocs.io/en/latest/install.html?highlight=install%20kernel#jupyter-kernels), esto gracias al proyecto de [jupyter](https://jupyter.org/). Ver esta liga para conocer qué son los [kernels](https://jupyter.readthedocs.io/en/latest/projects/kernels.html#kernels-langs) en jupyter.
+La instalación de un software a veces es sencilla y otras es difícil, depende mucho de su sistema operativo y de su experiencia instalando software. Si deciden instalar Python3 y R en sus máquinas, dediquen un tiempo a su instalación. Mi recomendación es que instalen [Anaconda](https://www.anaconda.com/products/individual) en donde pueden usar [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) e instalar diferentes [jupyter-kernels](https://jupyter.readthedocs.io/en/latest/install.html?highlight=install%20kernel#jupyter-kernels), esto gracias al proyecto de [jupyter](https://jupyter.org/). Ver esta liga para conocer qué son los [kernels](https://jupyter.readthedocs.io/en/latest/projects/kernels.html#kernels-langs) en jupyter.
  
 
 ## Otros botones
