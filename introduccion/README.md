@@ -8,4 +8,4 @@
 
 [1.SymPy](1_SymPy.ipynb)
 
-2.NumPy
+[2.NumPy](2_NumPy.ipynb)
