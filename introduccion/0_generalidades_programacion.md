@@ -18,7 +18,7 @@ Un programa está construído por instrucciones que son similares a las anterior
 
 **Programación:** piensen a la programación como el proceso de dividir una tarea grande o compleja en tareas más pequeñas hasta tener tareas lo suficientemente sencillas para realizarlas con alguna(s) de éstas instrucciones.
 
-Ambos lenguajes de programación que revisaremos, Python y R, permiten el uso de operadores siendo los más simples los operadores aritméticos. También ambos lenguajes permiten imprimir en pantalla con funciones como `print`.
+Como ejemplo de las instrucciones básicas en los lenguajes de programación que revisaremos, Python y R, permiten el uso de operadores siendo los más simples los operadores aritméticos (*math*). También ambos lenguajes permiten imprimir en pantalla con funciones como `print` (*output*).
 
 # Python3 y R podemos empezar a usarlos dando click en alguno de los botones siguientes
 
