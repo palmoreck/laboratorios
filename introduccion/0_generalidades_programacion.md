@@ -48,7 +48,7 @@ Los **lenguajes formales** son lenguajes diseñados por las personas para aplica
 
 Los lenguajes naturales y formales comparten características y difieren en otras. Ambos utilizan reglas de sintaxis que hacen referencia a unidades básicas (palabras y números, por ejemplo, nombradas ***tokens***) y a una estructura (forma de combinar las *tokens*). Los lenguajes formales, sin embargo, tienen la característica de tener reglas estrictas de sintaxis para escribir ***statements*** de forma correcta y estructurada. En los lenguajes naturales es más flexible esto último.
 
-En Matemáticas encontramos *statements* al escribir 3 + 3 = 6. Un *statement* con una sintaxis incorrecta en Mate es 3 + = 3 o 3 ? 3 = 1 o bien en Español "casa está lloviendo en mi" o "cas- está lloviendo en m*" (aunque tales *statements* utilicen *tokens* o símbolos correctos). **En Computación un *statement* es una sección de código que representa un comando o una acción**. Como ejemplos en Computación están el ***assignment*** y ***print statements***. 
+En Matemáticas encontramos *statements* al escribir 3 + 3 = 6. Un *statement* con una sintaxis incorrecta en Mate es 3 + = 3 o 3 ? 3 = 1 o bien en Español "casa está lloviendo en mi" o "cas- está lloviendo en m" (aunque tales *statements* utilicen *tokens* o símbolos correctos). **En Computación un *statement* es una sección de código que representa un comando o una acción**. Como ejemplos en Computación están el ***assignment*** y ***print statements***. 
 
 También los lenguajes naturales están llenos de ambiguedad y las personas usamos el contexto y otra información para entender los *statements*. Los lenguajes formales están diseñados para no tener ambiguedad.
 
