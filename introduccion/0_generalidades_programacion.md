@@ -64,7 +64,7 @@ Una **expresión** es una combinación de valores, variables y operadores. Un va
 
 En los lenguajes de programación orientada a objetos como Python se hace uso de nombres como **clases**, **objetos** y **atributos**. Con los objetos y clases modelamos entidades de nuestro mundo. Por ejemplo el plano de una casa y una casa se pueden modelar con una clase y un objeto respectivamente. La clase para una casa contiene los detalles respecto a las ventanas, pisos y puertas. El objeto de la clase anterior es la casa misma ya construída. 
 
-El nombre de **atributo** hace referencia a valores (referidos por variables) y métodos de un objeto.
+El nombre de **atributo** hace referencia a valores (referidos por variables) y métodos de un objeto. En el ejemplo de la casa del párrafo anterior, los atributos serían las ventanas, pisos y puertas del objeto casa.
 
 
 
