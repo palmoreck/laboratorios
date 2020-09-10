@@ -32,7 +32,7 @@ Lo que veremos en cada botón es que tenemos un programa que nos permite escribi
 
 # Valores, tipos y operadores aritméticos en los lenguajes de programación
 
-Los **valores** son unidades básicas de información. Pertenecen a diferentes tipos como un número, una cadena de caracteres (aka *string*) que un programa manipula.
+Los **valores** son unidades básicas de información. Pertenecen a diferentes tipos como un número, una cadena de caracteres (*aka string*) que un programa manipula.
 
 Un **tipo** es una categoría de valores. Pueden ser por ejemplo: `integers`, `float` o `str` para números enteros, números con punto flotante o cadenas de caracteres respectivamente.
 
