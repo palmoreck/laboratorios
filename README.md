@@ -39,7 +39,7 @@ Los siguientes botones permiten un trabajo colaborativo pero para esto requieren
 
 * [BeginnersGuide](https://wiki.python.org/moin/BeginnersGuide), [Python for Programmers](https://wiki.python.org/moin/BeginnersGuide/Programmers), [Python for Non-Programmers](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 
-* [Numpy](http://www.numpy.org/).
+* [Numpy](http://www.numpy.org/), [Numpy quickstart](https://numpy.org/doc/stable/user/quickstart.html)
 
 * [numpy-for-matlab-users](https://www.numpy.org/devdocs/user/numpy-for-matlab-users.html)
 
