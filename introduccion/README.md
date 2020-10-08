@@ -8,4 +8,10 @@
 
 [1.SymPy](1_SymPy.ipynb)
 
+[ejercicios](ejercicios.ipynb)
+
 [2.NumPy](2_NumPy.ipynb)
+
+[3.Matplotlib](3_Matplotlib.ipynb)
+
+
