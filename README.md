@@ -1,6 +1,6 @@
 # Álgebra Lineal 1
 
-## ¿Qué veremos en el taller?
+## ¿Qué veremos en el laboratorio?
 
 En este taller de apoyo para la materia de Álgebra Lineal 1 usaremos los lenguajes de programación de [Python3](https://en.wikipedia.org/wiki/Python_(programming_language)) y [R](https://en.wikipedia.org/wiki/R_(programming_language)) para aprender su sintaxis y resolver problemas en esta materia.
 
