@@ -2,12 +2,12 @@
 
 ## ¿Qué veremos en el laboratorio?
 
-En este taller de apoyo para la materia de Álgebra Lineal 1 usaremos los lenguajes de programación de [Python3](https://en.wikipedia.org/wiki/Python_(programming_language)) y [R](https://en.wikipedia.org/wiki/R_(programming_language)) para aprender su sintaxis y resolver problemas en esta materia.
+En este laboratorio de apoyo para la materia de Álgebra Lineal 1 usaremos los lenguajes de programación de [Python3](https://en.wikipedia.org/wiki/Python_(programming_language)) y [R](https://en.wikipedia.org/wiki/R_(programming_language)) para aprender su sintaxis y resolver problemas en esta materia.
 
 
 ## ¿Cómo puedo instalar Python3 y R en mi máquina?
 
-Sugiero que de inicio utilicen el siguiente botón que está configurado específicamente para los paquetes de Python y R que usaremos en el taller:
+Sugiero que de inicio utilicen el siguiente botón que está configurado específicamente para los paquetes de Python y R que usaremos en el laboratorio:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/talleres/algebra_lineal_1_binder?urlpath=lab/tree/talleres/)
 
