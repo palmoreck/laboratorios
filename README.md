@@ -13,17 +13,6 @@ Sugiero que de inicio utilicen el siguiente botón que está configurado especí
 
 
 La instalación de un software a veces es sencilla y otras es difícil, depende mucho de su sistema operativo y de su experiencia instalando software. Si deciden instalar Python3 y R en sus máquinas, dediquen un tiempo a su instalación. Mi recomendación es que instalen [Anaconda](https://www.anaconda.com/products/individual) en donde pueden usar [jupyterlab](https://jupyterlab.readthedocs.io/en/stable/) e instalar diferentes [jupyter-kernels](https://jupyter.readthedocs.io/en/latest/install.html?highlight=install%20kernel#jupyter-kernels), esto gracias al proyecto de [jupyter](https://jupyter.org/). Ver esta liga para conocer qué son los [kernels](https://jupyter.readthedocs.io/en/latest/projects/kernels.html#kernels-langs) en jupyter.
- 
-
-## Otros botones
-
-Los siguientes botones permiten un trabajo colaborativo pero para esto requieren tener cuenta en [github](https://github.com/)
-
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-1-Python-repl) repl para Python3
-
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-R-repl) repl para R
-
-
 
 # Referencias útiles
 
