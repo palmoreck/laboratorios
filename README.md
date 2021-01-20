@@ -31,6 +31,8 @@ Los siguientes botones permiten un trabajo colaborativo pero para esto requieren
 
 * [What is Python? Executive Summary](https://www.python.org/doc/essays/blurb/)
 
+* [Numerical Python by Robert Johansson, Apress](https://www.apress.com/gp/book/9781484242452)
+
 * J. Kiusalaas, Numerical Methods in Engineering with Python3, Cambridge University Press, 2013.
 
 * A. B. Downey, Think Python, O'Reilly, 2015.
@@ -59,6 +61,8 @@ Jupyterlab online:
 ## Lenguaje de programación R
 
 * [What is R?](https://www.r-project.org/about.html)
+
+* [R for data science](https://r4ds.had.co.nz/)
 
 * [The R Manuals](https://cran.r-project.org/manuals.html)
 
