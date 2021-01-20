@@ -21,7 +21,7 @@ Los siguientes botones permiten un trabajo colaborativo pero para esto requieren
 
 [![Run on Repl.it](https://repl.it/badge/github/palmoreck/laboratorios)](https://repl.it/@palmoreck/algebralineal220211Python) repl para Python3
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/laboratorios)](https://repl.it/@palmoreck/algebra-lineal-R-repl) repl para R
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/laboratorios)](https://repl.it/@palmoreck/algebralineal220211) repl para R
 
 
 
