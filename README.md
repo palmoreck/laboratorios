@@ -19,9 +19,9 @@ La instalación de un software a veces es sencilla y otras es difícil, depende 
 
 Los siguientes botones permiten un trabajo colaborativo pero para esto requieren tener cuenta en [github](https://github.com/)
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-1-Python-repl) repl para Python3
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/laboratorios)](https://repl.it/@palmoreck/algebralineal220211Python) repl para Python3
 
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-R-repl) repl para R
+[![Run on Repl.it](https://repl.it/badge/github/palmoreck/laboratorios)](https://repl.it/@palmoreck/algebra-lineal-R-repl) repl para R
 
 
 
