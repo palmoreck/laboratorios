@@ -1,5 +1,3 @@
-# Binder para Álgebra Lineal 1
+# Binder para Álgebra Lineal 2
 
-El contenido del taller está en [Álgebra Lineal 1](https://github.com/palmoreck/talleres/tree/algebra-lineal-1)
-
-Línea para volver a crear el build de binder
+El contenido del taller está en [Álgebra Lineal 2](https://github.com/palmoreck/laboratorios/tree/algebra_lineal_2_2021_1)
