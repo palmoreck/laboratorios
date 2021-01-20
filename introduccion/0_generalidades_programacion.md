@@ -20,15 +20,11 @@ Un programa está construído por instrucciones que son similares a las anterior
 
 Como ejemplo de las instrucciones básicas en los lenguajes de programación que revisaremos, Python y R, permiten el uso de operadores siendo los más simples los operadores aritméticos (*math*). También ambos lenguajes permiten imprimir en pantalla con funciones como `print` (*output*).
 
-# Python3 y R podemos empezar a usarlos dando click en alguno de los botones siguientes
+# Python3 y R podemos empezar a usarlos dando click en el botón siguiente
 
 Lo que veremos en cada botón es que tenemos un programa que nos permite escribir con sintaxis de Python3 o R. Este programa lo nombramos **intérprete** pues en programación escribimos en lenguajes que podemos leer y escribir y este intérprete realiza la traducción de tal escritura a lenguaje de máquina y también del lenguaje de máquina hacia lenguaje que podemos leer.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/palmoreck/talleres/algebra_lineal_1_binder?urlpath=lab/tree/talleres/)
-
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-1-Python-repl) repl para Python3
-
-[![Run on Repl.it](https://repl.it/badge/github/palmoreck/talleres)](https://repl.it/@palmoreck/algebra-lineal-R-repl) repl para R
 
 # Valores, tipos y operadores aritméticos en los lenguajes de programación
 
