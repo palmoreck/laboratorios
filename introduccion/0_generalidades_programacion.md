@@ -52,9 +52,12 @@ También los lenguajes naturales están llenos de ambiguedad y las personas usam
 
 En un lenguaje de programación manejamos variables. Una **variable** es un nombre que hace referencia a un valor.
 
-Un ***assignment statement*** crea una nueva variable y le da un valor.
+Un ***assignment statement*** crea una nueva variable y le da un valor. Un *print statement* imprime en pantalla.
 
 Una **expresión** es una combinación de valores, variables y operadores. Un valor y una variable son por sí mismas consideradas expresiones.
+
+Los lenguajes de programación se apoyan de funciones u operadores para crear *statements*.
+
 
 # Clases, objetos, atributos e instancias.
 
