@@ -59,6 +59,8 @@ Jupyterlab online:
 
 * [Hands-On Programming with R](https://rstudio-education.github.io/hopr/)
 
+* [R for Data Science](https://r4ds.had.co.nz/index.html)
+
 Algunas páginas hechas por la comunidad sobre R:
 
 * http://www.r-bloggers.com/
